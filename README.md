@@ -1,4 +1,4 @@
-# SpaceWavelinux
+# SpaceWave
 
 <p align="center">
      

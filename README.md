@@ -4,7 +4,7 @@
      
 </p>
 
-![Image alt](https://github.com/vlafmeister/SpaceWaveOS/blob/main/rr.png)
+![Image alt](https://github.com/TechVenture-Society/SpaceWavelinux/blob/main/rr.png)
 
 <p align="center">
  

@@ -33,10 +33,6 @@ Unlike trillions of other existing distros, SpaceWave is not a modification of a
 Visit (here is supposedly a site but it is not there sorry) to download the recent image.
 
 **List of init:**
-- runit
-- openrc
-- dinit
-- s6
 
 
 **Requirements for Running SpaceWave**
